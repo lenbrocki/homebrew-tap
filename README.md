@@ -6,10 +6,10 @@ display brightness for macOS.
 ## Install
 
 ```sh
-brew install --cask lenbrocki/lumos/lumos
+brew install --cask lenbrocki/tap/lumos
 ```
 
-(Shorthand for `brew tap lenbrocki/lumos` followed by `brew install --cask lumos`.)
+(Shorthand for `brew tap lenbrocki/tap` followed by `brew install --cask lumos`.)
 
 ## Update
 
@@ -21,5 +21,5 @@ brew upgrade --cask lumos
 
 ```sh
 brew uninstall --cask lumos
-brew untap lenbrocki/lumos   # optional
+brew untap lenbrocki/tap   # optional
 ```

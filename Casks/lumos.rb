@@ -1,6 +1,6 @@
 cask "lumos" do
-  version "0.1.7"
-  sha256 "9940ae30e8d9982500f8004e70b03f7c90e74ff2cf90fd6de19e9f55aa563d95"
+  version "0.1.8"
+  sha256 "8cb731248d3cf07fb6269a84db835054fa383b0378150488c5dd172f8e84055d"
 
   url "https://github.com/lenbrocki/lumos/releases/download/v#{version}/Lumos.dmg",
       verified: "github.com/lenbrocki/lumos/"
